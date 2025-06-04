@@ -28,11 +28,9 @@ Le système d’authentification utilise **JSON Web Token (JWT)** :
 - Maven
 - MySQL / PostgreSQL
 
-### Frontend :
-*(À adapter selon votre stack)*  
+### Frontend 
 - Angular / React / Vue.js
-- Bootstrap / Tailwind CSS
-- Axios / HttpClient
+- HttpClient
 
 ## 📁 Architecture du projet
 
