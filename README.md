@@ -1,8 +1,8 @@
-# 📦 Application de Gestion de Stock
+#  Application de Gestion de Stock
 
 Une application web complète de gestion de stock développée en **Java avec Spring Boot** pour le backend et **Angular/React** pour le frontend.
 
-## 🚀 Fonctionnalités principales
+##  Fonctionnalités principales
 
 - Authentification sécurisée par **JWT**
 - Gestion des **utilisateurs**
@@ -11,14 +11,14 @@ Une application web complète de gestion de stock développée en **Java avec Sp
 - Suivi des **mouvements de stock**
 - Interface utilisateur simple et intuitive
 
-## 🔐 Authentification
+## Authentification
 
 Le système d’authentification utilise **JSON Web Token (JWT)** :
 - L’utilisateur se connecte via un formulaire de login.
 - Le backend renvoie un **token**.
 - Le frontend utilise ce token pour toutes les requêtes sécurisées.
 
-## 🖥️ Technologies utilisées
+##  Technologies utilisées
 
 ### Backend :
 - Spring Boot
